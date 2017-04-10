@@ -2,6 +2,8 @@
 This is the repo for the long term project for runtime system course
 ==============================================================================================================================
 
+## Project description:
+
 We would like to develope and evaluate the performance of the GO programming language.  This is the initial, naive, first draft of our milestone of the project.
 
 1. learn quickly how to program in go, since we are both not familier with this novel language.
@@ -12,5 +14,11 @@ We would like to develope and evaluate the performance of the GO programming lan
 
 Further goals need to be determined after finishing the previous steps. Might need to discuss with the instructor for help.
 
+==============================================================================================================================
+## Team Member:
 
+Zhenyu Yang
+<img src="https://dl.dropbox.com/s/f74li4umccggmcs/chien-yu.jpg?dl=0" height="250" />
 
+shuyan Li
+<img src="https://dl.dropbox.com/s/btfxgoaqfj2x8zj/shuyan.jpg?dl=0" height="250" />
