@@ -39,5 +39,5 @@ Zhenyu Yang
 
 shuyan Li
 
-u
+
 <img src="https://dl.dropbox.com/s/btfxgoaqfj2x8zj/shuyan.jpg?dl=0" height="250" />
