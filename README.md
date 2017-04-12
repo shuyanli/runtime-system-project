@@ -1,7 +1,7 @@
 # runtime-system-project
 
 This is the repo for the long term project for runtime system course
-==============================================================================================================================
+
 
 ## Project description:
 
@@ -15,7 +15,7 @@ We would like to develope and evaluate the performance of the GO programming lan
 
 Further goals need to be determined after finishing the previous steps. Might need to discuss with the instructor for help.
 
-==============================================================================================================================
+
 
 ## Assignment for this week:
 
@@ -23,13 +23,13 @@ Further goals need to be determined after finishing the previous steps. Might ne
 
 2. Think about the future goals of the long term project
 
-==============================================================================================================================
+
 
 ## Assignment for the future: (to be modified)
 
 1. Try implement the process 2 though 4 in README. 
 2. Discuss with the professor if we met some big problems or confusions.
-==============================================================================================================================
+
 ## Team Member:
 
 Zhenyu Yang
