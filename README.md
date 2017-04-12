@@ -35,7 +35,7 @@ Further goals need to be determined after finishing the previous steps. Might ne
 Zhenyu Yang
 
 
-<img src="https://www.dropbox.com/s/y774sw8l5ph6h8a/unspecified.jpg?dl=0" height="250" />
+<img src="http://zhenyuyang.usite.pro/unspecified.jpg" height="250" />
 
 
 
