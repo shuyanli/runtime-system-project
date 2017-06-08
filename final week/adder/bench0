@@ -1,0 +1,3 @@
+BenchmarkHandleStructAdd-8   	   50000	     37957 ns/op
+PASS
+ok  	_/Users/shuyanli/Desktop/adder	2.310s
