@@ -1,6 +1,6 @@
 # runtime-system-project
 
-Please check the folder "last week" for project slice and report for detail
+Please check the folder "final week" for project slice and report for detail
 
 
 ## Project description:
