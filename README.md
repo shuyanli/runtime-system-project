@@ -1,6 +1,6 @@
 # runtime-system-project
 
-This is the repo for the long term project for runtime system course
+Please check the folder "last week" for project slice and report for detail
 
 
 ## Project description:
